@@ -31,3 +31,7 @@ The 'installer' note can be removed after the installation.
 <br><br>
 
 > Tested on Trilium desktop v0.60.4
+<br>
+
+### Demo
+https://github.com/madodig/trilium-widget-theme-switch/assets/14966219/17033f83-0eed-45af-aac0-9df3a37646dc
