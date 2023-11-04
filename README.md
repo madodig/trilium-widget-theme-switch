@@ -25,7 +25,7 @@ Possible customizations:
 <br>
 
 ### Installation
-Download the ZIP file and import it to Trilium (mark the 'Safe import'). When imported, select the 'installer' note and execute it, or add owned attribute #widget to the 'Theme Switch' note and reload the Frontend.
+Download the ZIP file from releases and import it to Trilium (mark the 'Safe import'). When imported, select the 'installer' note and execute it, or add owned attribute #widget to the 'Theme Switch' note and reload the Frontend.
 
 The 'installer' note can be removed after the installation.
 <br><br>
