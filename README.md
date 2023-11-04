@@ -10,13 +10,13 @@ This Trilium widget enables:
 - automatic switching between light/dark mode based on the time of the day.
 
 Possible customizations:
-- change appearance of the widget button:
+- change the appearance of the widget button:
   - static button, in accordance with Trilium title bar buttons design;
   - animated switch, in accordance with current theme style;
-- change icon for the button and the dropdown items;
-- whether the Trilium frontend reload is triggered to activate the new theme;
-- whether to show the dropdown list of available themes or show the button to toggle between current theme's available modes;
-- time range that defines when the light and dark mode should be activeted
+- change the icon for the button and the dropdown items;
+- choose whether the Trilium frontend reload is triggered to activate the new theme;
+- choose whether to show the dropdown list of available themes or show the button to toggle between current theme's available modes;
+- define a time range in which the light and dark mode should be activated.
 
 > The widget activates the new theme by updating stylesheets in the DOM (Document Object Model). This results in more fluid UX, but might not be the preferred way. It is possible to configure the frontend to reload when changing themes.                         
 
